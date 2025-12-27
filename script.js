@@ -154,10 +154,10 @@
 
     // Image Carousel
     const images = [
-    'https://i.ibb.co/ycJvyDq6/image.png',
-      'https://i.ibb.co/7tWwQMks/image.png',
-      'https://i.ibb.co/svPDQpqK/image.png',
-      'https://i.ibb.co/Qvh4X4z7/image.png'
+    'https://i.ibb.co/DDhBr8Tz/Whats-App-Image-2025-12-27-at-8-18-43-PM-1.jpg',
+      'https://i.ibb.co/Kj4QKBhw/Whats-App-Image-2025-12-27-at-8-18-43-PM-2.jpg',
+      'https://i.ibb.co/GQkw957L/Whats-App-Image-2025-12-27-at-8-18-43-PM-3.jpg',
+      'https://i.ibb.co/QRVQWbS/Whats-App-Image-2025-12-27-at-8-18-43-PM.jpg'
     ];
     let currentSlide = 0;
 
@@ -261,4 +261,5 @@
       passwordInput.value = '';
 
       navigateTo('password-page');
+
     }
